@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GrendpaCornel09
+- 👀 I’m interested in coding with JavaScript
+- 🌱 I’m currently learning Phaser.js
